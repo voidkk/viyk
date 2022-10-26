@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @viyk
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning React and Computer Science.
